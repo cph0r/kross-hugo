@@ -25,7 +25,7 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Site Design"
+    - title : "UI/UX Design"
       progress : "90%"
       color : "#fdb157"
       

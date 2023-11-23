@@ -8,6 +8,7 @@
   {{ $bootstrap = $bootstrap | fingerprint "sha512" }}
 {{ end }}
 <script crossorigin="anonymous" defer {{ if hugo.IsProduction }}integrity="{{ $bootstrap.Data.Integrity }}"{{end}} type="application/javascript">{{$bootstrap.Content | safeJS}}</script>
+<script src="https://cdn.jsdelivr.net/npm/lottie-web@5.7.5/build/player/lottie.min.js"></script>
 
 <!-- JS Plugins + Main script -->
 {{ $scripts := slice }}

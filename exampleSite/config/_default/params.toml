@@ -7,7 +7,7 @@ logo = ""
 # Note: logo_width is not work with .svg file
 logo_width = ""
 # if logo_webp set false, will not generate WEBP version of logo | default is true
-logo_webp = true
+logo_webp = false
 # logo text will only show when logo is missing.
 logo_text = "Kross"
 
@@ -25,7 +25,7 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script = ""
 
 # Author
-author = "Johnathan Smith"
+author = "Saloni Kesarwani"
 
 # copyright
 copyright = "Made with ❤️ by Saloni Kesarwani"
@@ -102,7 +102,7 @@ mastodon = "" # Your verification code
 # google map
 [google_map]
 enable = true
-embed_url = "https://www.google.com/maps/embed/v1/place?q=Washington+D.C.,+DC,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+embed_url = "https://www.google.com/maps/embed/v1/place?q=11+Nakas+Kona,+Khalifa+Mandi,+Prayagraj,&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
 
 # cookies
 [cookies]

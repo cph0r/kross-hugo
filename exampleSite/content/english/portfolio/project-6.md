@@ -1,30 +1,13 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-6.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["design"]
+title: "Calculator Redesign"
+image: "images/portfolio/item-4.jpg"
+project_url : "https://www.behance.net/gallery/169270483/Calculator-redesign"
+categories: ["Design (ui-ux)"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
 
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+The Calculator Redesign project is a comprehensive endeavor aimed at modernizing and refining the user interface and functionality of the ubiquitous calculator. The primary objective is to deliver an enhanced calculation experience by addressing user interface inefficiencies, improving visual clarity, and introducing new features that align with contemporary design standards. The redesign focuses on creating an intuitive and visually pleasing interface, incorporating clean lines, consistent spacing, and a harmonious color palette. The project also aims to enhance user functionality by introducing features such as an interactive history log, memory functions, and advanced scientific capabilities.

@@ -16,7 +16,7 @@ As a designer, I thrive on transforming ideas into visually compelling and user-
 
 Let's create designs that not only catch the eye but also elevate the user experience to new heights!"
   button:
-    enable : true
+    enable : false
     label : "know more"
     URL : "about"
 
@@ -104,7 +104,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"

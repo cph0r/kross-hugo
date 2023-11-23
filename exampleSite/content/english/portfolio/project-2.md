@@ -1,30 +1,12 @@
 ---
-title: "Artwork Design"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["branding"]
+title: "Product Design"
+image: "images/portfolio/item-1.jpg"
+project_url : "https://www.behance.net/gallery/184895989/Product-packaging-design/modules/1044922875"
+categories: ["PRODUCT PACKAGING"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-
-
 #### Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Crafting packaging for leather puppetry involves weaving together the threads of cultural heritage and practical functionality. The packaging must honor the rich tradition of the art form while safeguarding these delicate treasures during transport. Our goal is to create an immersive unboxing experience that encapsulates the artistry, craftsmanship, and cultural significance of leather puppetry. The design should be a testament to the meticulous skill involved in creating these puppets, utilizing motifs, colors, and symbols that resonate with the heritage they represent. Simultaneously, it must offer durability and flexibility to accommodate various puppet sizes, ensuring both protection and a captivating unboxing journey for the customers. This packaging isn’t just a container; it’s a vessel to transport the essence of a centuries-old craft to modern audiences, bridging tradition and innovation seamlessly.
